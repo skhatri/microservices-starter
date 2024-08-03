@@ -1,6 +1,11 @@
 # microservices-starter
 starter project with various frameworks using pokemon example
 
+## Archive
+*spring-starter is maintained at: https://github.com/skhatri/spring-starter*
+*quarkus-starter is maintained at: https://github.com/skhatri/quarkus-starter*
+
+
 ### How to run
 This project uses a postgres database to store pokemon data. Once the database is started,
 a specific app flavour can be run using the runApp task in each project. 
@@ -11,6 +16,7 @@ Start a postgres container with sample data
 ```shell 
 docker-compose up -d
 ```
+
 
 #### Run App
 Each starter can be run with runApp task

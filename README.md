@@ -1,7 +1,7 @@
 # microservices-starter
 starter project with various frameworks using pokemon example
 
-*spring-starter is maintained at: https://github.com/skhatri/spring-starter*
+*spring-starter is maintained at: https://github.com/skhatri/spring-starter-java*
 
 *quarkus-starter is maintained at: https://github.com/skhatri/quarkus-starter*
 
